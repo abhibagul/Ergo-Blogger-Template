@@ -5589,7 +5589,7 @@ loadCSS("//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
  <div class='main_content_container clearfix'>
   <div class='ergo-cwrap body-row'>
     <div class='ergo-credit_copyright leftboxc'>
-      Copyright 2019, <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>. All rights Reserved.   | <a href='https://www.theme-daddy.com' target='_blank' title="Best Free WordPress Themes">ThemeDaddy - Best Themes Everytime!</a></div>
+      Copyright 2019, <a expr:href='data:blog.homepageUrl'><data:blog.title/></a>. All rights Reserved.   | <a href='https://theme-daddy.blogspot.com' target='_blank' title="Best Free Blogger Themes">ThemeDaddy Best Blogger Themes</a></div>
     <div class='rightboxc'><b:section id='header social widget' maxwidgets='1' name='Attribution' preferred='no' showaddelement='no'>
   <b:widget id='Attribution1' locked='true' title='' type='Attribution' visible='true'>
     <b:widget-settings>
